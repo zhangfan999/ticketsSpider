@@ -1,0 +1,9 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: max-age=0
+Connection: keep-alive
+Cookie: yd_cookie=c41ab0b7-685b-46488d98e9c4ecc1e5c64c83c2888bef7713; Hm_lvt_1761fabf3c988e7f04bec51acd4073f4=1548730353; Hm_lpvt_1761fabf3c988e7f04bec51acd4073f4=1548734923; _ydclearance=d10825044b61fd8ad61edd7b-a2e2-4bb1-8aa5-f6703ae16ff6-1548745159
+Host: www.66ip.cn
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
